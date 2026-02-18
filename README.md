@@ -5,6 +5,7 @@
 El objetivo principal de este código es proporcionar una base sólida para quienes desean aprender o reforzar conceptos clave de programación, desde la resolución de problemas lógicos hasta la estructura de programas más complejos.
 
 🧠 ¿Qué encontrarás aquí?
+
 En esta serie de ejercicios me enfoco en:
 
 Lógica de programación: Resolución de algoritmos y control de flujo.
@@ -19,6 +20,7 @@ Lenguaje: C# (C-Sharp)
 
 Entorno: .NET SDK / Visual Studio 
 
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 Bloc de Notas: https://github.com/Aguirre2601/BlocDeNotas.git
 
