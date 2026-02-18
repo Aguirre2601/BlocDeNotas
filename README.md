@@ -14,16 +14,26 @@ Manejo de Clases: Estructura de objetos, propiedades y métodos.
 Fundamentos de POO: Introducción a la Programación Orientada a Objetos.
 
 🛠️ Tecnologías utilizadas
+
 Lenguaje: C# (C-Sharp)
 
 Entorno: .NET SDK / Visual Studio 
 
+
 Bloc de Notas: https://github.com/Aguirre2601/BlocDeNotas.git
+
 Bucles-Arreglos: https://github.com/Aguirre2601/Bucles-Arreglos-CSharp.git
+
 Bucles: https://github.com/Aguirre2601/LogicaDePOOCSharp.git
+
 Manejo de array: https://github.com/Aguirre2601/ManejoDeArray.git
+
 Manejo de arreglos 1: https://github.com/Aguirre2601/ManejoDeArreglos1.git
+
 Manejo de arreglos 2: https://github.com/Aguirre2601/ManejoDeArreglos2.git
+
 Manejo de arreglos 3: https://github.com/Aguirre2601/ManejoDeArreglos3.git
+
 Manejo de arreglos 4: https://github.com/Aguirre2601/ManejoDeArreglos4.git
+
 Validaciones varias: https://github.com/Aguirre2601/Validaciones-Listas-Bucles.git
