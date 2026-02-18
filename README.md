@@ -1,4 +1,5 @@
 📚 Introducción a C# y Lógica de Programación
+
 ¡Hola! Bienvenido a este repositorio. Este proyecto forma parte de una serie de ejercicios prácticos diseñados para dominar los fundamentos de C#.
 
 El objetivo principal de este código es proporcionar una base sólida para quienes desean aprender o reforzar conceptos clave de programación, desde la resolución de problemas lógicos hasta la estructura de programas más complejos.
